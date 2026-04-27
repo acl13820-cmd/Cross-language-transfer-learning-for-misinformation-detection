@@ -1,0 +1,11 @@
+,EN,CN,JP,Positive,Negative,Anger,Anticipation,Disgust,Fear,Joy,Sadness,Surprise,Trust
+0,aback,吓了一跳,あっけ,0,0,0,0,0,0,0,0,0,0
+1,abacus,算盘,そろばん,0,0,0,0,0,0,0,0,0,1
+2,abandon,放弃,捨てます,0,1,0,0,0,1,0,1,0,0
+3,abandoned,弃,放棄されました,0,1,1,0,0,1,0,1,0,0
+4,abandonment,放弃,放棄,0,1,1,0,0,1,0,1,1,0
+5,abate,杀,弱まります,0,0,0,0,0,0,0,0,0,0
+6,abatement,减排,軽減,0,0,0,0,0,0,0,0,0,0
+7,abba,ABBA,アバ,1,0,0,0,0,0,0,0,0,0
+8,abbot,方丈,修道院長,0,0,0,0,0,0,0,0,0,1
+9,abbreviate,简略,短縮します,0,0,0,0,0,0,0,0,0,0
